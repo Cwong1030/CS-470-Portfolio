@@ -1,9 +1,9 @@
 # Project 1 URLs
 
-## API URL
+## S3 Bucket
 
 ```txt
-- https://80bvhacm73.execute-api.us-east-1.amazonaws.com/api
+- http://chris-wong-cs470.s3-website-us-east-1.amazonaws.com/
 ```
 
 ## API Endpoints
@@ -14,10 +14,4 @@
 - https://80bvhacm73.execute-api.us-east-1.amazonaws.com/api/Questions/findOne
 - https://80bvhacm73.execute-api.us-east-1.amazonaws.com/api/Answers
 - https://80bvhacm73.execute-api.us-east-1.amazonaws.com/api/Answers/{id}
-```
-
-## S3 Bucket
-
-```txt
-- http://chris-wong-cs470.s3-website-us-east-1.amazonaws.com/
 ```
